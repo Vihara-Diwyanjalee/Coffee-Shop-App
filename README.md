@@ -11,16 +11,17 @@
 
 ## Overview
 
-Kids Maths Game is an engaging educational app designed to help children enhance their math skills. It offers practice in addition, subtraction, multiplication, and division through randomized questions and multiple-choice answers. The game features vibrant graphics and a straightforward gameplay interface, making learning fun and interactive for children aged five and above.
+Coffee Shop is a mobile application designed to enhance your coffee shop experiences by providing a platform to explore, order, and connect with the coffee-loving community. Whether you're a busy professional, a student, or a socializer, this app caters to your coffee needs and preferences, ensuring a delightful and convenient experience.
 
 ## Features
 
-- **Educational Focus:** Targets key arithmetic skills including addition, subtraction, multiplication, and division.
-- **Interactive Gameplay:** Multiple-choice questions with instant feedback.
-- **Countdown Timer:** Encourages quick thinking and adds excitement.
-- **Score Tracking:** Monitors progress and builds confidence.
-- **User-Friendly Design:** Simple interface suitable for young children.
-- **Versatile Use:** Ideal for both home and classroom learning environments.
+- **Location-Based Search:** Easily find nearby coffee shops using your current location or a specified address.
+- **Personalized Recommendations:** Receive tailored coffee shop suggestions based on your preferences and past choices.
+- **Event and Promotion Notifications:** Stay updated on exclusive events, deals, and promotions at your favorite coffee spots.
+- **Bookmarking and Favorites:** Save your preferred coffee shops for quick access and keep track of new offerings and events.
+- **User Profiles:** Track your coffee experiences, reviews, and preferences within the app.
+- **Advanced Search Filters:** Narrow down your search results with filters like coffee bean origin and brewing techniques.
+- **QR Code Reading:** Quickly add new products to your inventory by scanning QR codes on coffee packaging, saving time and effort.
 
 ## Installation
 
@@ -29,7 +30,7 @@ To set up the project locally, follow these steps:
 **1. Clone the repository.**
 
 ```
-git clone https://github.com/Vihara-Diwyanjalee/Kids-Maths-Game-App.git
+git clone https://github.com/Vihara-Diwyanjalee/Coffee-Shop-App.git
 ```
 
 **2. Open the project in Android Studio.**
