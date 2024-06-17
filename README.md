@@ -39,8 +39,8 @@ git clone https://github.com/Vihara-Diwyanjalee/Coffee-Shop-App.git
 
 ## Screenshots
 
-<img src="https://github.com/Vihara-Diwyanjalee/Coffee-Shop-App/blob/main/app/src/main/res/drawable/s1.png" alt="CoffeeShop-Screenshots" width=1200>
+<img src="https://github.com/Vihara-Diwyanjalee/Coffee-Shop-App/blob/main/app/src/main/res/drawable/s1.png" alt="CoffeeShop-Screenshots" width=1000>
 
-<img src="https://github.com/Vihara-Diwyanjalee/Coffee-Shop-App/blob/main/app/src/main/res/drawable/s2.png" alt="CoffeeShop-Screenshots" width=1200>
+<img src="https://github.com/Vihara-Diwyanjalee/Coffee-Shop-App/blob/main/app/src/main/res/drawable/s2.png" alt="CoffeeShop-Screenshots" width=1000>
 
-<img src="https://github.com/Vihara-Diwyanjalee/Coffee-Shop-App/blob/main/app/src/main/res/drawable/s3.png" alt="CoffeeShop-Screenshots" width=1200>
+<img src="https://github.com/Vihara-Diwyanjalee/Coffee-Shop-App/blob/main/app/src/main/res/drawable/s3.png" alt="CoffeeShop-Screenshots" width=1000>
