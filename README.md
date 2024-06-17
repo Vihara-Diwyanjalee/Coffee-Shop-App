@@ -38,5 +38,5 @@ git clone https://github.com/Vihara-Diwyanjalee/Coffee-Shop-App.git
 **3. Build and run the app on an Android device or emulator.**
 
 ## Screenshots
-![Uploading newHome.png…]()
+
 <img src="https://github.com/Vihara-Diwyanjalee/EggCatcher/blob/main/app/src/main/res/drawable/screenshots.png" alt="CoffeeShop-Screenshots">
