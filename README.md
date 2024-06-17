@@ -39,4 +39,4 @@ git clone https://github.com/Vihara-Diwyanjalee/Coffee-Shop-App.git
 
 ## Screenshots
 
-<img src="https://github.com/Vihara-Diwyanjalee/EggCatcher/blob/main/app/src/main/res/drawable/screenshots.png" alt="CoffeeShop-Screenshots">
+<img src="https://github.com/Vihara-Diwyanjalee/Coffee-Shop-App/blob/main/app/src/main/res/drawable/s1.png" alt="CoffeeShop-Screenshots">
