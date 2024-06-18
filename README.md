@@ -1,4 +1,4 @@
-# Coffee Shop App (Android Mobile Game)
+# Coffee Shop App (Android Mobile App)
 
 <p><a href="https://github.com/Vihara-Diwyanjalee"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github" width=200></a></p>
 
